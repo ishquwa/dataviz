@@ -18,3 +18,5 @@
   - [f11](https://github.com/ishquwa/dataviz/blob/master/f11.xlsx)
   - [f12](https://github.com/ishquwa/dataviz/blob/master/f12.xlsx)
 
+- [Datasaurus complete](https://github.com/ishquwa/dataviz/blob/master/DatasaurusDozen.xlsx)
+
