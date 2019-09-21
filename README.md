@@ -20,3 +20,5 @@
 
 - [Datasaurus complete](https://github.com/ishquwa/dataviz/blob/master/DatasaurusDozen.xlsx)
 
+- [US Murders](https://github.com/ishquwa/dataviz/blob/master/murders.xlsx)
+
